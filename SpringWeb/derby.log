@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Nov 01 15:40:55 IST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0149-6ad6-15bf-00000e6abac8 
+on database directory D:\workspace\PacktPub\3780OS_Spring\SpringWeb\derbyDB with class loader sun.misc.Launcher$AppClassLoader@1830e4a7 
+Loaded from file:/D:/workspace/PacktPub/3780OS_Spring/SpringWeb/WebContent/WEB-INF/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_55-b13
+user.dir=D:\workspace\PacktPub\3780OS_Spring\SpringWeb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
